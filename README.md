@@ -51,7 +51,7 @@ Our [template validation workflow](.github/workflows/validate-templates.yaml) in
 
 ## Contributing
 
-We welcome contributions to this project. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to add new templates or improve existing ones.
+We welcome contributions to this project. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to add new templates or improve existing ones. Your contributions will be available in the CodePipeline Console in a future release.
 
 ## Security
 
